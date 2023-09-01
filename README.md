@@ -9,6 +9,8 @@ C'est la première version de ce code, donc tout n'est pas disponible !
 
 # Commandes 
 - /help
+- /invite
+- /about
 
 Les commandes sont toujours en développement !
 
